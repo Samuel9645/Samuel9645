@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning computer science at the University of La Laguna.
+- 🐐 I love programming and problem solving.
+- 🔥 Trying to learn as much as possible.
+
 <!--
 **Samuel9645/Samuel9645** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
